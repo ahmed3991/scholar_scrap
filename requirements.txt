@@ -1,0 +1,6 @@
+selenium
+numpy
+pandas
+tika
+notebook
+git+https://www.github.com/ultrafunkamsterdam/undetected-chromedriver@master
